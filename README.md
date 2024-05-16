@@ -8,5 +8,5 @@ Weather data maps of Sitka, Alaska and Death Valley, California using CSV files.
 Interactable map of international earthquake data using geoJSON files.
 ![Screenshot 2024-05-16 153509](https://github.com/drewstephenson/learning_plotly_matplotlib/assets/116836139/2d64a8e9-7975-4b56-94d5-13de5e42eb95)
 
-Screenshot of the most starred Python repositories on GitHub (as of this time) using APIs, running the program will give the current data.
+Screenshot of the most starred Python repositories on GitHub (as of this time) using APIs, running the program will give the current data. This graph is also interactable.
 ![Screenshot 2024-05-16 153558](https://github.com/drewstephenson/learning_plotly_matplotlib/assets/116836139/dd929c45-4604-491a-8a0b-1b609c42d6c4)
